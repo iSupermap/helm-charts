@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  iserver_datascience:
+  - apiVersion: v1
+    appVersion: 10.1.0
+    created: 2020-03-17T23:22:02.71740101+08:00
+    description: Multi-user iserver_datascience installation
+    digest: e6a6aa69b2b4e39559a81e46fc46fed3fa002aa45b7ce15875edffc62554ed46
+    kubeVersion: '>=1.11.0-0'
+    name: iserver_datascience
+    urls:
+    - iserver-datascience/iserver_datascience-10.1.0-alpha.34.tgz
+    version: 10.1.0-alpha.34
+generated: 2020-03-17T23:22:02.716210383+08:00
